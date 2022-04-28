@@ -8,6 +8,7 @@ public class ExplorecaliApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExplorecaliApplication.class, args);
+		System.out.println("Hello");
 	}
 
 }
